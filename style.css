@@ -8,7 +8,7 @@ font-family: 'Roboto Mono', monospace;
 .hero{
     height: 100vh;
     width: 100%;
-    background-image:url("/images/codess.jpg");
+    background-image:url("codess.jpg");
     background-size: cover;
     background-position: center;
 }
